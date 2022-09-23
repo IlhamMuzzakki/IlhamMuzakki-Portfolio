@@ -1,0 +1,140 @@
+html, body{
+    font-family: 'Montserrat', sans-serif;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.navbar-nav{
+    box-sizing: border-box;
+    margin-left: 300px;
+}
+
+.jumbotron{
+    text-align: center;
+    background-color: #272727;
+    color: #717070;
+    height: 700px;
+    padding-top: 350px;
+    margin-top: -75px;
+}
+
+.jumbotron img{
+    margin-top: -210px;
+    height: 300px;
+}
+
+
+.jumbotron span{
+    color: #fff;
+}
+
+.about h4{
+    border-bottom: 2px solid #CC7A00;
+    width: 135px;
+}
+
+.about{
+    margin-top: -250px;
+    margin-left: 130px;
+}
+
+.bagabout h1{
+    color: #E8E7E7;
+    font-size: 200px;
+}
+
+#about img{
+    height: 300px;
+    
+}
+
+#about{
+    background-color: #F0F0F0;
+    height: 400px;
+    padding-top: 40px;
+}
+
+#quotes{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #E1E1E1;
+}
+#quotes h5{
+    color: #CC7A00;
+    text-align: center;
+    border-bottom: 2px solid #CC7A00;
+}
+
+#quotes p{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+#project{
+    padding-top: 40px;
+}
+#project h1{
+    color: #E8E7E7;
+    font-size: 100px;
+    margin-top: -80px;
+}
+
+#project h6{
+    position: relative;
+    padding-top: 40px;
+    font-weight: bold;
+    padding-left: 20px;
+    border-bottom: 2px solid #CC7A00;
+    width: 300px;
+}
+
+#contact{
+    text-align: center;
+    padding-top: 30px;
+}
+#contact h1{
+    color: #f9f9f9;
+    font-size: 100px;
+}
+
+#contact h6{
+    position: relative;
+    margin-top: -70px;
+    font-weight: bold;
+    margin-left: 400px;
+    width: 300px;
+}
+
+.input{
+    padding-top: 40px;
+    width: 400px;
+
+}
+
+.button{
+    width: 80px;
+    color: #CC7A00;
+    border: none;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 12px;
+    margin-left: 270px;
+}
+
+.footer{
+    background-color: #272727;
+    color: white;
+    text-align: center;
+    height: 70px;
+    padding-top: 30px;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.sosmed{
+    padding-left: 250px;
+}
+.fb{
+    margin-left: 330px;
+    padding-right: 10px;
+}
